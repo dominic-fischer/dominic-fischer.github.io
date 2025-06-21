@@ -44,15 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",
-          handler: () => {
-            
-              window.location.href = "/news/announcement_2.html";
-            
-          },
         },{id: "news-i-have-just-set-up-my-github-portfolio-sparkles-smile",
           title: 'I have just set up my Github portfolio! :sparkles: :smile:',
           description: "",
