@@ -25,8 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-CHANGED. AGAIN. AND AGAIN. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+What inspired me to study Computational Linguistics? Not only wanting to study language(s), but to actually create and innovate using language! The rapid recent advancements in NLP and AI, coinciding with the begin of my studies, have made just that possible.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Professionally, a special interest of mine are LLMs with their vast capabilities, useful in many different fields, with many avenues still unexplored, and even more coming up due to the continuous—yearly, monthly, even weekly—breakthroughs.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This requires constant adaptation, a never-ending willingness to learn, to grow. This aligns well with my personal values, which is well-illustrated by my passion for languages: I never shy away from challenging myself, because I am convinced that good things require effort—and good people. Language helps foster connection, which is at the heart of my passion for languages.
+
+I truly believe that techology is there to help make peoples' lives easier, that we ought to embrace it and always strive to find better solutions to existing problems. However, the true drivers of technology are the people behind it, and we must never forget that. 
+
+Which brings me back to Computational Linguistics: it sits at the intersection of technology and human communication through language—and that is exactly where I want to be.
