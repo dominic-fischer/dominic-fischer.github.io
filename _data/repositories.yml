@@ -5,6 +5,3 @@ repo_description_lines_max: 2
 
 github_repos:
   - dominic-fischer/text-tutor
-
-text-tutor:
-  description: "My custom local description for the site."
