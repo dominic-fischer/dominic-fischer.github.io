@@ -19,10 +19,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 What inspired me to study Computational Linguistics? Not only wanting to study language(s), but to actually create and innovate using language! The rapid recent advancements in NLP and AI, coinciding with the begin of my studies, have made just that possible.
