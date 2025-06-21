@@ -29,7 +29,7 @@ ninja.data = [
               id: "dropdown-{{ title | slugify }}",
               title: "{{ title | truncatewords: 13 }}",
               description: "{{ child.description | strip_html | strip_newlines | escape | strip }}",
-              section: "Dropdown",
+              section: "{{ p.title }}",
               handler: () => {
                 window.location.href = "{{ url | relative_url }}";
               },
@@ -89,13 +89,15 @@ ninja.data = [
           {%- endif -%}
           id: "{{ collection.label }}-{{ title | slugify }}",
           title: '{{ title | escape | emojify | truncatewords: 13 }}',
-          description: "{{ item.description | strip_html | strip_newlines | escape | strip }}",
+          description: "{{ item.description | strip_html | strip_newlines | escape | emojify | strip }}",
           section: "{{ collection.label | capitalize }}",
-          {%- unless item.inline -%}
-            handler: () => {
+          handler: () => {
+            {% if item.inline %}
+              window.location.href = "/news/";
+            {% else %}
               window.location.href = "{{ item.url | relative_url }}";
-            },
-          {%- endunless -%}
+            {% endif %}
+          },
         },
       {%- endfor -%}
     {%- endif -%}
