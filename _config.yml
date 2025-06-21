@@ -139,7 +139,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/teaching.md
   - purgecss.config.js
   - README.md
   - readme_preview/
