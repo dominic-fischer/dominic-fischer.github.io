@@ -24,13 +24,49 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Institute of Computational Linguistics, University of Zurich",
+      "position": "Student Research Assistant",
+      "url": "https://www.cl.uzh.ch/en",
+      "startDate": "2023-11",
+      "endDate": "2025-07",
+      "summary": "I worked with LLMs via APIs in the context of analysing, processing and experimenting with the large XML-corpus of Swiss Reformator Heinrich Bullinger's Letter collection. I...",
+      "highlights": [{"prefix": "wrote, published, and ", "url_text": "presented research papers", "suffix": "at various conferences.", "url":"/publications/"},{"prefix": "used the thus gained insights to improve and enrich the ", "url_text": "Bullinger Digital corpus.", "url":"https://www.bullinger-digital.ch"},{"url_text": "presented our work", "suffix": "on different occasions.", "url":"/talks/"}]
+    },
+    {
+      "name": "Institute of Computational Linguistics, University of Zurich",
+      "position": "Tutor of Introdcution to Computational Linguistics I & II",
+      "url": "https://www.cl.uzh.ch/en",
+      "startDate": "2022-09",
+      "endDate": "2024-01",
+      "summary": "I tutored the mandatory Bachelor's courses 'Introduction to Computational Linguistics I & II' twice each in four consecutive semesters. I...",
+      "highlights": [{"prefix": "prepared and visualised learning materials for students."},{"prefix": "held (bi-)weekly tutorials presenting the materials, providing assistance and fostering connection between students."},{"prefix": "created and graded exercises and provided constructive feedback."}]
+    },
+    {
+      "name": "Institute of Informatics, University of Zurich",
+      "position": "Tutor of Database Systems",
+      "url": "https://www.ifi.uzh.ch/en",
+      "startDate": "2024-02",
+      "endDate": "2024-06",
+      "summary": "I tutored the mandatory Informatics Bachelor's course 'Database Systems'. I...",
+      "highlights": [{"prefix": "solved aloud and explained the weekly assignments in class."},{"prefix": "answered questions regarding the assignments and the course on the online course platform."},{"prefix": "held office hours for students to provide additional assistance."}]
+    },
+    {
+      "name": "Impuls Nachhilfezentrum",
+      "position": "Tutor of Mathematics and Languages",
+      "url": "https://www.nachhilfezentrum.ch/",
+      "startDate": "2020-07",
+      "endDate": "2023-07",
+      "summary": "I tutored kids, adolescents and adults primarily in Mathematics, but also in German and, sporadically, other subjects. I...",
+      "highlights": [{"prefix": "helped them keep up with their day-to-day school materials."},{"prefix": "prepared them for major exams such as the entrance exams for high school (Gymi-Aufnahmeprüfung) or for the University of Teacher Education (Pädagogische Hochschule (PH) Zürich)"},{"prefix": "motivated them to develop a positive attitude towards school and taught them how to study effectively and efficiently."}]
+    },
+    {
+      "name": "Tennisclub Volketswil",
+      "position": "Youth Tennis Coach (+ Coordinator)",
+      "url": "https://www.tcvolketswil.ch/",
+      "startDate": "2019-04",
+      "endDate": "2022-07",
+      "summary": "I coached youth aged five to fifteen to develop technically sound tennis skills and find joy in tennis and sports in general. I...",
+      "highlights": [{"prefix": "took a J+S (Jugend + Sport) youth tennis trainer course in order to have a foundational coaching education."},{"prefix": "devised and implemented age-appropriate training programs to foster developmen."},{"prefix": "motivated the younger ones and helped them develop their motor skills while sharpening the technique of the ones that had overcome that first hurdle."},{"prefix": "organised and oversaw the youth tennis season as a youth coordinator on the executive board in 2021/2022,  including managing sign-ups, forming training groups, and serving as a point of contact for parents."}]
     }
   ],
   "volunteer": [
@@ -58,15 +94,6 @@
       "courses": ["Theory of Relativity"]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
   "certificates": [
     {
       "name": "Machine Learning",
@@ -81,57 +108,6 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [
@@ -187,14 +163,18 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
+    "publications": [
+    {
+      "name": "To the Publications Section",
+      "url": "/publications/",
+      "summary": "My publications, available on the publications page, center around the capabilities and limitations of large language models (LLMs) in the context of historical text corpora, particularly focusing on the letter collection of Swiss Reformer Heinrich Bullinger."
+    }
+  ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "To the Projects Section",
+      "url": "/projects/",
+      "summary": "A particular foucs of my projects, available on the projects page, is and has been language learning. Be it through creating and making language learning materials available, developing tools or games to facilitate language learning, I am passionate about all things related to language learning."
     }
   ]
 }
