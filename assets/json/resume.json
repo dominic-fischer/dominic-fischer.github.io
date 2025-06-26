@@ -126,39 +126,96 @@
     }
   ],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
+  {
+    "language": "Swiss German :ch:",
+    "fluency": "Native speaker",
+    "fluency_level": 5
+  },
+  {
+    "language": "German :de:",
+    "fluency": "Bilingual proficiency",
+    "fluency_level": 5
+  },
+  {
+    "language": "English :gb:",
+    "fluency": "Bilingual proficiency",
+    "fluency_level": 5
+  },
+  {
+    "language": "French :fr:",
+    "fluency": "Full professional proficiency",
+    "fluency_level": 4
+  },
+  {
+    "language": "Romanian :ro:",
+    "fluency": "Professional working proficiency",
+    "fluency_level": 3
+  },
+  {
+    "language": "Spanish :es:",
+    "fluency": "Professional working proficiency",
+    "fluency_level": 3
+  },
+  {
+    "language": "Italian :it:",
+    "fluency": "Professional working proficiency",
+    "fluency_level": 3
+  },
+  {
+    "language": "Portuguese :pt:",
+    "fluency": "Professional working proficiency",
+    "fluency_level": 3
+  },
+  {
+    "language": "Chichewa :mw:",
+    "fluency": "Limited working proficiency",
+    "fluency_level": 2
+  },
+  {
+    "language": "Latin :classical_building:",
+    "fluency": "N/A",
+    "fluency_level": "N/A"
+  }  ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Sports",
+      "icon": "fa-solid fa-table-tennis-paddle-ball",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Tennis",
+        "Pingpong",
+        "Football"
       ]
+    },
+    {
+      "name": "Arts",
+        "icon": "fa-solid fa-palette",
+        "keywords": [
+        "Drawing",
+        "Painting",
+        "Calligraphy"
+      ]
+    },
+        {
+      "name": "Piano",
+        "icon": "fa-solid fa-music"
+    },
+    {
+      "name": "Nature",
+        "icon": "fa-solid fa-tree"
+    },
+    {
+      "name": "Animals",
+        "icon": "fa-solid fa-paw"
+    },
+    {
+      "name": "Historical Sites",
+        "icon": "fa-solid fa-chess-rook"
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
+      "name": "Prof. Dr. Martin Volk",
+      "url": "assets/pdf/example_pdf.pdf",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
