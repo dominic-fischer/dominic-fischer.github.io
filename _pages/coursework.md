@@ -6,6 +6,5 @@ description: unpublished papers or presentations written or presentend in master
 nav: false
 ---
 
-- [Paper Title One](../assets/papers/paper1.pdf) – Short description of the paper  
-- [Presentation Title One](../assets/papers/paper1.pdf) – Short description of the paper  
-- [Paper Title Two](../assets/papers/paper2.pdf) – Another short description
+- [This link has no content yet.](../assets/papers/paper1.pdf) – More Information will soon be added.
+
