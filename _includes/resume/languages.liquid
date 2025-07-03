@@ -9,7 +9,14 @@
             {% for item in content.items %}
               {% assign i = i | plus: 1 %}
             {% endfor %}
-            <td colspan="{{ i }}" class="list-group-category">{{ content.language | emojify }}</td>
+            <td colspan="{{ i }}" class="list-group-category">
+              {% if content.emoji_path %}
+                <img src="{{ content.emoji_path }}" alt="emoji" style="width: 1em; height: 1em; vertical-align: middle; margin-right: 0.3em;">
+                {{ content.language }}
+              {% else %}
+                {{ content.language | emojify }}
+              {% endif %}
+            </td>
           </tr>
           <tr>
             <td class="list-group-name">

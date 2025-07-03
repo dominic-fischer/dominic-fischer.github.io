@@ -127,54 +127,59 @@
   ],
   "languages": [
   {
-    "language": "Swiss German :ch:",
+    "language": "Swiss German",
+    "emoji_path": "/assets/emojis/switzerland.png",
     "fluency": "Native speaker",
     "fluency_level": 5
   },
   {
-    "language": "German :de:",
+    "language": ":de: German",
     "fluency": "Bilingual proficiency",
     "fluency_level": 5
   },
   {
-    "language": "English :gb:",
+    "language": ":gb: English",
     "fluency": "Bilingual proficiency",
     "fluency_level": 5
   },
   {
-    "language": "French :fr:",
+    "language": ":fr: French",
     "fluency": "Full professional proficiency",
     "fluency_level": 4
   },
   {
-    "language": "Romanian :ro:",
+    "language": "Romanian",
+    "emoji_path": "/assets/emojis/romania.png",
     "fluency": "Professional working proficiency",
     "fluency_level": 3
   },
   {
-    "language": "Spanish :es:",
+    "language": ":es: Spanish",
     "fluency": "Professional working proficiency",
     "fluency_level": 3
   },
   {
-    "language": "Italian :it:",
+    "language": ":it: Italian",
     "fluency": "Professional working proficiency",
     "fluency_level": 3
   },
   {
-    "language": "Portuguese :pt:",
+    "language": "Portuguese",
+    "emoji_path": "/assets/emojis/portugal.png",
     "fluency": "Professional working proficiency",
     "fluency_level": 3
   },
   {
-    "language": "Chichewa :mw:",
+    "language": "Chichewa",
+    "emoji_path": "/assets/emojis/malawi.png",
     "fluency": "Limited working proficiency",
     "fluency_level": 2
   },
   {
-    "language": "Latin :classical_building:",
+    "language": "Latin",
+    "emoji_path": "/assets/emojis/latin.png",
     "fluency": "N/A",
-    "fluency_level": "N/A"
+    "fluency_level": "'Grosses Latinum'"
   }  ],
   "interests": [
     {
