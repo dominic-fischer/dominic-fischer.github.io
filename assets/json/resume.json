@@ -6,7 +6,7 @@
     "email": "dominic.fischer@gmail.com",
     "phone": "",
     "url": "",
-    "summary": "...",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -71,14 +71,34 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
+      "organization": "UZH Student Association of Computational Linguistics <CL>ATZH",
       "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "position": "President",
+      "url": "https://fachverein-cl.ch/",
+      "startDate": "2024-10",
+      "endDate": "Present",
+      "summary": "Foster a sense of community and organise events such as game nights, potlucks, and excursions for students of Computational Linguistics at UZH. Represent the association in department and university meetings.",
+      "highlights": ""
+    },
+        {
+      "organization": "Wildlife Action Group (WAG) Malawi",
+      "location": "Thuma Forest, Malawi",
+      "position": "Volunteer",
+      "url": "https://www.wildlifeactiongroupmalawi.org/",
+      "startDate": "2019-08",
+      "endDate": "2019-11",
+      "summary": "Performed maintenance tasks in and around the camp including painting, basic construction, and woodworking. Raised over a thousand seedlings from scratch. Translated and checked English-Chichewa documents for staff well-being evaluation and conducted said evaluation. Created sponsoring proposals in English.",
+      "highlights": ""
+    },
+        {
+      "organization": "Wagerenhof Foundation Uster: residential and work home for people with disabilities",
+      "location": "Uster, Switzerland",
+      "position": "Volunteer",
+      "url": "https://www.wagerenhof.ch/",
+      "startDate": "2016-10",
+      "endDate": "2016-10",
+      "summary": "Assisted the residents in agricultural work such as harvesting, weeding, and planting, as well as farming tasks such as cleaning the stables and feeding and herding the animals.",
+      "highlights": ""
     }
   ],
   "education": [
@@ -86,42 +106,70 @@
       "institution": "University of Zurich, Zurich, Switzerland",
       "location": "Zurich, Switzerland",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "major_area": "Computational Linguistics and Language Technology",
+      "minor_area": "Comparative Romance Linguistics",
+      "studyType": "Bachelor or Arts (BA) & Master of Arts (MA)",
+      "startDate": "2021-09",
+      "endDate": "Present",
+      "major_courses": "Software Construction/Engineering, Database Systems, IT Security || Large Language Models, RAG, Machine Learning for NLP, Advanced Machine Translation, Speech Technology, ...",
+      "minor_courses": "Dedicated French, Italian, Spanish, Portuguese, Romanian and Catalan Language and/or Linguistics Courses || Panromance courses such as 'From Latin to the Romance Languages'"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "institution": "Literargymnasium Rämibühl, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.lgr.ch/",
+      "major_area": "Latin",
+      "minor_area": "English",
+      "studyType": "Swiss Matura",
+      "startDate": "2013-08",
+      "endDate": "2019-07"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Informatics",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-computer",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Java and Javascript",
+        "Full-Stack Web Development",
+        "Database Systems"
+      ]
+    },
+    {
+      "name": "Computational Linguistics",
+      "level": "Master",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "Large Language Models (LLMs)",
+        "Artificial Intelligence (AI)",
+        "Machine Learning (ML)",
+        "Natural Language Processing (NLP)"
+      ]
+    },
+    {
+      "name": "Interpersonal Skills",
+      "level": "Master",
+      "icon": "fa-solid fa-people-group",
+      "keywords": [
+        "Communication",
+        "Empathy",
+        "Teamwork",
+        "Leadership",
+        "Presentation & Teaching"
+      ]
+    },
+    {
+      "name": "Personal Effectiveness",
+      "level": "Master",
+      "icon": "fa-solid fa-heart",
+      "keywords": [
+        "Efficiency",
+        "Diligence",
+        "Reliability",
+        "Adaptability",
+        "Organisation"
       ]
     }
   ],
@@ -179,7 +227,7 @@
     "language": "Latin",
     "emoji_path": "/assets/emojis/latin.png",
     "fluency": "N/A",
-    "fluency_level": "'Grosses Latinum'"
+    "fluency_level": "N/A"
   }  ],
   "interests": [
     {
@@ -200,7 +248,23 @@
         "Calligraphy"
       ]
     },
+    {
+      "name": "Crafts",
+        "icon": "fa-solid fa-scissors",
+        "keywords": [
+        "Sewing",
+        "Pottery"
+      ]
+    },
         {
+      "name": "Reading",
+        "icon": "fa-solid fa-book",
+        "keywords": [
+        "(Urban) Fantasy",
+        "Non-fiction"
+      ]
+    },
+    {
       "name": "Piano",
         "icon": "fa-solid fa-music"
     },

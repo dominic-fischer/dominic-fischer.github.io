@@ -39,14 +39,31 @@
             <a href="{{ content.url }}">{{ content.studyType }}</a>
           </h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.institution }}</h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area }}</h6>
-          <ul class="items">
-            {% for item in content.courses %}
-              <li>
-                <span class="item">{{ item }}</span>
-              </li>
-            {% endfor %}
-          </ul>
+
+          {% if content.major_area %}
+            <p class="ml-1 ml-md-4" style="font-size: 0.95rem; margin-bottom: 0;">
+              <strong>Major: {{ content.major_area }} </strong>
+            </p>
+            {% if content.major_courses %}
+              <p class="ml-1 ml-md-5" style="font-size: 0.95rem; margin-top: 0.2rem;">
+                <em> {{ content.major_courses }} </em>
+              </p>
+            {% endif %}
+          {% endif %}
+
+          {% if content.minor_area %}
+            <p class="ml-1 ml-md-4" style="font-size: 0.95rem; margin-bottom: 0;">
+              <strong>Minor: {{ content.minor_area }}</strong>
+            </p>
+            {% if content.minor_courses %}
+              <p class="ml-1 ml-md-5" style="font-size: 0.95rem; margin-top: 0.2rem;">
+                <em> {{ content.minor_courses }} </em>
+              </p>
+            {% endif %}
+          {% endif %}
+
+
+
         </div>
       </div>
     </li>
