@@ -178,56 +178,57 @@
     "language": "Swiss German",
     "emoji_path": "/assets/emojis/switzerland.png",
     "fluency": "Native speaker",
-    "fluency_level": 5
+    "fluency_level": 6
   },
   {
     "language": ":de: German",
     "fluency": "Bilingual proficiency",
-    "fluency_level": 5
+    "fluency_level": 6
   },
   {
     "language": ":gb: English",
-    "fluency": "Bilingual proficiency",
-    "fluency_level": 5
+    "fluency": "Bilingual proficiency; 🛡️C2 (CAE)",
+    "fluency_level": 6
   },
   {
     "language": ":fr: French",
-    "fluency": "Full professional proficiency",
-    "fluency_level": 4
+    "fluency": "Full professional proficiency; 🛡️C1 (UZH)",
+    "fluency_level": 5
   },
   {
     "language": "Romanian",
     "emoji_path": "/assets/emojis/romania.png",
-    "fluency": "Professional working proficiency",
-    "fluency_level": 3
+    "fluency": "Professional working proficiency; 🛡️B2 (UZH)",
+    "fluency_level": 4
   },
   {
     "language": ":es: Spanish",
-    "fluency": "Professional working proficiency",
-    "fluency_level": 3
+    "fluency": "Professional working proficiency; 🤔B2; 🛡️B1 (UZH)",
+    "fluency_level": 4
   },
   {
     "language": ":it: Italian",
-    "fluency": "Professional working proficiency",
-    "fluency_level": 3
+    "fluency": "Professional working proficiency; 🛡️B2 (UZH)",
+    "fluency_level": 4
   },
   {
     "language": "Portuguese",
     "emoji_path": "/assets/emojis/portugal.png",
-    "fluency": "Professional working proficiency",
-    "fluency_level": 3
+    "fluency": "Professional working proficiency; 🛡️B2 (UZH)",
+    "fluency_level": 4
   },
   {
     "language": "Chichewa",
     "emoji_path": "/assets/emojis/malawi.png",
-    "fluency": "Limited working proficiency",
+    "fluency": "Limited proficiency; 🤔A2",
     "fluency_level": 2
   },
   {
     "language": "Latin",
     "emoji_path": "/assets/emojis/latin.png",
-    "fluency": "N/A",
-    "fluency_level": "N/A"
+    "fluency": "Near-native reading proficiency; 🛡️Grosses Latinum (LG Rämibühl)",
+    "fluency_level": "6",
+    "classical": true
   }  ],
   "interests": [
     {

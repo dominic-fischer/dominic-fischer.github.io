@@ -19,19 +19,19 @@
             </td>
           </tr>
           <tr>
-            <td class="list-group-name">
-              {% assign max_level = 5 %}
-              {% if content.fluency_level == "N/A" or content.fluency_level == "" or content.fluency_level == nil %}
-                <span style="color: #bbb; font-style: italic;">N/A</span>
-              {% else %}
-                {% for i in (1..max_level) %}
-                  {% if i <= content.fluency_level %}
-                    <span style="display:inline-block;width:16px;height:16px;background:#2a9d8f;border:1px solid #ddd;margin-right:2px;border-radius:2px;"></span>
-                  {% else %}
-                    <span style="display:inline-block;width:16px;height:16px;background:#eee;border:1px solid #ddd;margin-right:2px;border-radius:2px;"></span>
-                  {% endif %}
-                {% endfor %}
-              {% endif %}
+            <td class="list-group-name"
+              title="{{ content.fluency | emojify }}"
+              style="cursor: help;">
+              {% assign is_latin = content.classical == true %}
+              {% assign max_level = 6 %}
+              {% assign level = content.fluency_level | plus: 0 %}
+              {% for i in (1..max_level) %}
+                {% if i <= level %}
+                  <span style="display:inline-block;width:16px;height:16px;background:{% if is_latin %}#6f6f6f{% else %}#2a9d8f{% endif %};border:1px solid #ddd;margin-right:2px;border-radius:2px;"></span>
+                {% else %}
+                  <span style="display:inline-block;width:16px;height:16px;background:#eee;border:1px solid #ddd;margin-right:2px;border-radius:2px;"></span>
+                {% endif %}
+              {% endfor %}
             </td>
           </tr>
         </tbody>

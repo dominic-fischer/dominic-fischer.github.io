@@ -3,7 +3,8 @@ layout: page
 permalink: /talks/
 title: talks
 description: talks given outside of UZH.
-nav: false
+nav: true
+nav_order: 4
 ---
 
 - [PPTX: Workshop "Generative AI, LLMs and GPT for Digital Editions" at DHd2024 in Passau](../assets/pptx/LLMs_for_DH_2024_02_27_DFischer_MVolk.pptx) – I presented some of my own as well as others' work done at the Department of Computational Linguistics at UZH as part of the efforts to preserve the correspondence of 16th century Swiss reformer Heinrich Bullinger and to make it digitally accessible. The presentation took place in Passau on February 27th in the context of the german-speaking digitial humanities conference (DHd).
