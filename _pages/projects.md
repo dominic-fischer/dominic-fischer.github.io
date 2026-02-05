@@ -2,10 +2,11 @@
 layout: page
 title: coursework
 permalink: /projects/
-description: A selection of my university course projects.
+description: A selection of my university course projects and papers.
 nav: true
 nav_order: 3
 horizontal: false
+display_categories: [applications, unpublished papers]
 ---
 
 <!-- pages/projects.md -->
