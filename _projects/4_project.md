@@ -14,3 +14,10 @@ In an effort to preserve this letter corpus, the **Bullinger Digital** project (
 
 Note: The visualisation and its documentation are still under development.
 
+**Below**: Undirected greetings between the 20 most prolific writers in our corpus in the year 1540.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/saluta.png" title="grammar comparison" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>

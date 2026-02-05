@@ -1,6 +1,6 @@
 ---
 layout: page
-title: coursework
+title: projects
 permalink: /projects/
 description: A selection of my university course projects and papers.
 nav: true
