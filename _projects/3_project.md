@@ -12,7 +12,7 @@ A Sky of Word Clouds is a fun and educational word-guessing game that introduces
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Skyofwordclouds_easy.png" title="grammar comparison" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Skyofwordclouds_easy.png" title="SOWC" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -21,6 +21,6 @@ A Sky of Word Clouds is a fun and educational word-guessing game that introduces
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Skyofwordclouds_easy_result.png" title="grammar comparison" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Skyofwordclouds_easy_result.png" title="SOWC result" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
