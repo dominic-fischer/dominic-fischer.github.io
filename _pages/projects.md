@@ -2,7 +2,7 @@
 layout: page
 title: coursework
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A selection of my university course projects.
 nav: true
 nav_order: 3
 horizontal: false
