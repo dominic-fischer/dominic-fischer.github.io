@@ -2,7 +2,7 @@
 layout: page
 title: Text Tutor
 description: A local-first application that helps you understand texts of your choice by providing additional clues!
-img: assets/img/3.jpg
+img: assets/img/texttutor.png
 importance: 3
 category: applications
 giscus_comments: true

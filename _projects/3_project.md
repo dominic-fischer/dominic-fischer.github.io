@@ -2,7 +2,7 @@
 layout: page
 title: A Sky of Word Clouds
 description: A fun guessing game where you have to find the impostor amongst the words!
-img: assets/img/7.jpg
+img: assets/img/wordclouds.png
 category: applications
 importance: 3
 ---

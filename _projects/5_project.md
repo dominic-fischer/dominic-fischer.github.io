@@ -2,7 +2,7 @@
 layout: page
 title: Romansh Lemmatizer
 description: A basic, dictionary-based lemmatizer for Romansh.
-img: assets/img/1.jpg
+img: assets/img/Lemmatizer.png
 category: applications
 importance: 3
 ---

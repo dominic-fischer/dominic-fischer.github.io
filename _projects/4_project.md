@@ -2,7 +2,7 @@
 layout: page
 title: Bullinger's Network Visualised
 description: A dynamic and interactive visualisation illustrating social Networks in Swiss Reformer Heinrich Bullinger's letter exchange.
-img: assets/img/1.jpg
+img: assets/img/Bullinger.png
 category: applications
 importance: 3
 ---
