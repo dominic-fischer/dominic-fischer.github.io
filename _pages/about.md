@@ -20,12 +20,12 @@ announcements:
 
 ---
 
-What inspired me to study Computational Linguistics? Not only wanting to study language(s), but to actually create and innovate using language! The rapid recent advancements in NLP and AI, coinciding with the begin of my studies, have made just that possible.
+What inspired me to study Computational Linguistics was not only wanting to study language(s), but to actually create and innovate using language. The rapid recent advancements in NLP and AI, coinciding with the begin of my studies, have made just that possible.
 
-Professionally, a special interest of mine are LLMs with their vast capabilities, useful in many different fields, with many avenues still unexplored, and even more coming up due to the continuous—yearly, monthly, even weekly—breakthroughs.
+Professionally, a special interest of mine are LLMs with their vast capabilities, useful in many different fields, with many avenues still unexplored, and even more coming up due to the continuous breakthroughs.
 
-This requires constant adaptation, a never-ending willingness to learn, to grow. This aligns well with my personal values, which is well-illustrated by my passion for languages: I never shy away from challenging myself, because I am convinced that good things require effort—and good people. Language helps foster connection, which is at the heart of my passion for languages.
+This requires constant adaptation, a never-ending willingness to learn and to grow. This aligns well with my personal values, which is illustrated by my passion for languages: I never shy away from challenging myself, because I am convinced that good things require effort—but also good people, and language helps foster that connection.
 
-I truly believe that techology is there to help make peoples' lives easier, that we ought to embrace it and always strive to find better solutions to existing problems. However, the true drivers of technology are the people behind it, and we must never forget that. 
+I believe that techology is there to help make peoples' lives easier, that we ought to embrace it and always strive to find better solutions to existing problems. However, we must not forget that the true drivers of technology are the people behind it... 
 
-Which brings me back to Computational Linguistics: it sits at the intersection of technology and human communication through language—and that is exactly where I want to be.
+...Which brings me back to Computational Linguistics: it sits at the intersection of technology and what makes us human: language itself. That is exactly where I want to be.

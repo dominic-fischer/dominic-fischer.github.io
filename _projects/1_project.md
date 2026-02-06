@@ -3,12 +3,12 @@ layout: page
 title: Linguistics Data Browser
 description: A Streamlit app to explore and compare grammatical and vocabulary data across multiple languages.
 img: assets/img/Interface.png
-importance: 3
+importance: 2
 category: applications
-giscus_comments: true
+giscus_comments: false
 ---
 
-*This project was done as an autonomous programming project in the autumn semester of 2025.* 
+_This project was done as an autonomous programming project in the autumn semester of 2025._
 
 It resulted in a **Streamlit web app** for exploring and interacting with structured linguistic data across multiple languages. It lets you **browse and compare grammar rules and vocabulary** — either individually or across languages — through a clean, filterable interface. Grammar topics and vocabulary entries can be selected and expanded to view detailed descriptions, while comparison views help highlight similarities and differences between languages, including Romance (French, Spanish, ...) and Bantu Languages (Zulu, Chichewa, ...).
 

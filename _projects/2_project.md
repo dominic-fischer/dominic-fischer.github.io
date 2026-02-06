@@ -3,15 +3,16 @@ layout: page
 title: Text Tutor
 description: A local-first application that helps you understand texts of your choice by providing additional clues!
 img: assets/img/texttutorbg.png
-importance: 3
+importance: 4
 category: applications
-giscus_comments: true
+giscus_comments: false
 ---
-*This is my bachelor thesis, done in the spring semester of 2024.*
 
-[Text-Tutor](https://github.com/dominic-fischer/Text-Tutor) is a **local-first application that helps you better understand any text you choose by showing useful clues and annotations**. It runs entirely on your own machine (no cloud required), using a Flask backend, React frontend, and SQLite database. When you input or paste text, it processes the content and displays word-level grammatical cues like parts of speech or grammatical functions. You can also use context menu actions to get Wordnet definitions and synonyms, OLLaMa rephrasing, or GoogleTranslate translations. For a more detailed overview and explanations, please consult the repository linked above.
+_This is my bachelor thesis, done in the spring semester of 2024._
 
-**Left:** word-level grammatical clues for the word *code*.<br>
+[Text-Tutor](https://github.com/dominic-fischer/Text-Tutor) is a **local-first application that helps you better understand any text you choose by showing useful clues and annotations**. It runs entirely on your own machine (no cloud required), using a Flask backend, React frontend, and SQLite database. When you input or paste text, it processes the content and displays word-level grammatical clues like parts of speech or grammatical functions. You can also use context menu actions to get Wordnet definitions and synonyms, OLLaMa rephrasing, or GoogleTranslate translations. For a more detailed overview and explanations, please consult the repository linked above.
+
+**Left:** word-level grammatical clues for the word _code_.<br>
 **Right:** sentence-level additional functionalities, such as translation (here into dutch) or simplified rephrasing.
 
 <div class="row">

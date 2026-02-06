@@ -28,9 +28,10 @@
       "position": "Student Research Assistant",
       "url": "https://www.cl.uzh.ch/en",
       "startDate": "2023-11",
-      "endDate": "2025-07",
-      "summary": "I worked with LLMs via APIs in the context of analysing, processing and experimenting with the large XML-corpus of Swiss Reformator Heinrich Bullinger's Letter collection. I...",
-      "highlights": [{"prefix": "wrote, published, and ", "url_text": "presented research papers", "suffix": "at various conferences.", "url":"/publications/"},{"prefix": "used the thus gained insights to improve and enrich the ", "url_text": "Bullinger Digital corpus.", "url":"https://www.bullinger-digital.ch"},{"url_text": "presented our work", "suffix": "on different occasions.", "url":"/talks/"}]
+      "endDate": "Present",
+      "summary": "I worked with LLMs via APIs in the context of analysing, processing and experimenting with the large XML-corpus of Swiss Reformator Heinrich Bullinger's Letter collection. Later, I worked on a Lemmatizer for the Romansh language as part of the project 'Machine Translation for Romansh Idioms'. I...",
+      "highlights": [{"prefix": "wrote, published, and presented", "url_text": "research papers", "suffix": "at various conferences.", "url":"/publications/"},
+      {"prefix": "used the thus gained insights to improve and enrich the ", "url_text": "Bullinger Digital corpus.", "url":"https://www.bullinger-digital.ch"},{"url_text": "presented our work", "suffix": "on different occasions.", "url":"/talks/"},{"prefix": "developed a", "url_text": "python package lemmatizer", "url":"https://github.com/ZurichNLP/romansh_lemmatizer", "suffix": "for the Romansh language."}]
     },
     {
       "name": "Institute of Computational Linguistics, University of Zurich",

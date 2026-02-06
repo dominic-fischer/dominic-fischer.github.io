@@ -4,11 +4,11 @@ title: Romansh Lemmatizer
 description: A basic, dictionary-based lemmatizer for Romansh.
 img: assets/img/Lemmatizer.png
 category: applications
-importance: 3
+importance: 1
 ---
 *This Lemmatizer is the main fruit of my work as a student research assistant in the post-Bullinger-project era (autumn semester of 2025 until spring semester of 2026)*
 
-This Python package implements a simple dictionary-based lemmatizer for Romansh ([browser demo](https://huggingface.co/spaces/ZurichNLP/romansh-lemmatizer), [repository](https://github.com/ZurichNLP/romansh_lemmatizer)). It tokenizes a given text and looks up each word in the Pledari Grond dictionaries, covering the five main Romansh idioms (Sursilvan, Sutsilvan, Surmiran, Puter, Vallader) as well as Rumantsch Grischun. The tool can be used to retrieve possible German glosses and to automatically infer the Romansh variety of a text based on dictionary coverage. A current limitation is that it performs no contextual disambiguation, returning all possible dictionary entries and morphological analyses for ambiguous word forms. For more details, please consult the linked repository.
+This Python package implements a simple **dictionary-based lemmatizer for Romansh** ([browser demo](https://huggingface.co/spaces/ZurichNLP/romansh-lemmatizer), [repo](https://github.com/ZurichNLP/romansh_lemmatizer)). It tokenizes a given text and looks up each word in the Pledari Grond dictionaries, covering the five main Romansh idioms (Sursilvan, Sutsilvan, Surmiran, Puter, Vallader) as well as Rumantsch Grischun. The tool can be used to retrieve possible German glosses and to automatically infer the Romansh variety of a text based on dictionary coverage. A current limitation is that it performs no contextual disambiguation, returning all possible dictionary entries and morphological analyses for ambiguous word forms. For more details, please consult the linked repository.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
