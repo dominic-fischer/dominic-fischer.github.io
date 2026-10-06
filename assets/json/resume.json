@@ -67,7 +67,7 @@
       "startDate": "2019-04",
       "endDate": "2022-07",
       "summary": "I coached youth aged five to fifteen to develop technically sound tennis skills and find joy in tennis and sports in general. I...",
-      "highlights": [{"prefix": "took a J+S (Jugend + Sport) youth tennis trainer course in order to have a foundational coaching education."},{"prefix": "devised and implemented age-appropriate training programs to foster developmen."},{"prefix": "motivated the younger ones and helped them develop their motor skills while sharpening the technique of the ones that had overcome that first hurdle."},{"prefix": "organised and oversaw the youth tennis season as a youth coordinator on the executive board in 2021/2022,  including managing sign-ups, forming training groups, and serving as a point of contact for parents."}]
+      "highlights": [{"prefix": "took a J+S (Jugend + Sport) youth tennis trainer course in order to have a foundational coaching education."},{"prefix": "devised and implemented age-appropriate training programs to foster development."},{"prefix": "motivated the younger ones and helped them develop their motor skills while sharpening their technique."},{"prefix": "organised and oversaw the youth tennis season as a youth coordinator on the executive board in 2021/2022,  including managing sign-ups, forming training groups, and serving as a point of contact for parents."}]
     }
   ],
   "volunteer": [
@@ -109,9 +109,9 @@
       "url": "https://www.uzh.ch/",
       "major_area": "Computational Linguistics and Language Technology",
       "minor_area": "Comparative Romance Linguistics",
-      "studyType": "Bachelor or Arts (BA) & Master of Arts (MA)",
+      "studyType": "Bachelor or Arts (BA) & Master of Arts (MSc)",
       "startDate": "2021-09",
-      "endDate": "Present",
+      "endDate": "2026-12",
       "major_courses": "Software Construction/Engineering, Database Systems, IT Security || Large Language Models, RAG, Machine Learning for NLP, Advanced Machine Translation, Speech Technology, ...",
       "minor_courses": "Dedicated French, Italian, Spanish, Portuguese, Romanian and Catalan Language and/or Linguistics Courses || Panromance courses such as 'From Latin to the Romance Languages'"
     },
@@ -128,50 +128,52 @@
   ],
   "skills": [
     {
-      "name": "Informatics",
-      "level": "Master",
-      "icon": "fa-solid fa-computer",
-      "keywords": [
-        "Python",
-        "Java and Javascript",
-        "Full-Stack Web Development",
-        "Database Systems"
-      ]
-    },
-    {
-      "name": "Computational Linguistics",
+      "name": "LLMs",
       "level": "Master",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Large Language Models (LLMs)",
-        "Artificial Intelligence (AI)",
-        "Machine Learning (ML)",
-        "Natural Language Processing (NLP)"
-      ]
+      "keywords": ["LLM APIs", "LLM Evaluation", "Prompt Engineering", "Machine Translation", "RAG", "MCP"]
+    },
+    {
+      "name": "Frameworks and Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-screwdriver-wrench",
+      "keywords": ["Flask", "React", "Streamlit", "D3.js", "Vite", "Git", "SQLite"]
+    },
+    {
+      "name": "Deep Learning",
+      "level": "Master",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["PyTorch", "Hugging Face", "Model Training & Evaluation"]
+    },
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "Java", "JavaScript", "SQL"]
+    },
+    {
+      "name": "Data Engineering",
+      "level": "Master",
+      "icon": "fa-solid fa-database",
+      "keywords": ["LLM-Based Data Normalisation", "Entity Linking"]
+    },
+    {
+      "name": "AI-Assisted Development",
+      "level": "Master",
+      "icon": "fa-solid fa-wand-magic-sparkles",
+      "keywords": ["GitHub Copilot", "Claude Code"]
+    },
+    {
+      "name": "REST APIs",
+      "level": "Master",
+      "icon": "fa-solid fa-plug",
+      "keywords": ["Design", "Deployment", "Testing"]
     },
     {
       "name": "Interpersonal Skills",
       "level": "Master",
       "icon": "fa-solid fa-people-group",
-      "keywords": [
-        "Communication",
-        "Empathy",
-        "Teamwork",
-        "Leadership",
-        "Presentation & Teaching"
-      ]
-    },
-    {
-      "name": "Personal Effectiveness",
-      "level": "Master",
-      "icon": "fa-solid fa-heart",
-      "keywords": [
-        "Efficiency",
-        "Diligence",
-        "Reliability",
-        "Adaptability",
-        "Organisation"
-      ]
+      "keywords": ["Communication", "Teamwork", "Leadership", "Presentation", "Teaching"]
     }
   ],
   "languages": [
