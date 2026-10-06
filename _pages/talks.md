@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks
-description: talks given outside of UZH. Beyond the talks listed here, I have presented three of my papers at conferences (two posters, one oral presentation; see <a href='/publications'>publications</a>).
+description: Talks given outside of UZH. Beyond the talks listed here, I have presented three of my papers at conferences (two posters, one oral presentation; see <a href='/publications'>publications</a>).
 
 nav: true
 nav_order: 4

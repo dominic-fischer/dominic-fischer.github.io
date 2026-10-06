@@ -1,0 +1,2 @@
+micromamba activate alfolio
+bundle exec jekyll serve --lsi --livereload

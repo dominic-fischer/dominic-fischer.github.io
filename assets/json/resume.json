@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Dominic Fischer",
-    "label": "Master's student at University of Zurich (UZH)",
+    "label": "MSC in Computational Linguistics and Language Technology, University of Zurich",
     "image": "assets/img/prof_pic.jpg",
     "email": "dominic.fischer@gmail.com",
     "phone": "",
@@ -28,7 +28,7 @@
       "position": "Student Research Assistant",
       "url": "https://www.cl.uzh.ch/en",
       "startDate": "2023-11",
-      "endDate": "Present",
+      "endDate": "2026-04",
       "summary": "I worked with LLMs via APIs in the context of analysing, processing and experimenting with the large XML-corpus of Swiss Reformator Heinrich Bullinger's Letter collection. Later, I worked on a Lemmatizer for the Romansh language as part of the project 'Machine Translation for Romansh Idioms'. I...",
       "highlights": [{"prefix": "wrote, published, and presented", "url_text": "research papers", "suffix": "at various conferences.", "url":"/publications/"},
       {"prefix": "used the thus gained insights to improve and enrich the ", "url_text": "Bullinger Digital corpus.", "url":"https://www.bullinger-digital.ch"},{"url_text": "presented our work", "suffix": "on different occasions.", "url":"/talks/"},{"prefix": "developed a", "url_text": "python package lemmatizer", "url":"https://github.com/ZurichNLP/romansh_lemmatizer", "suffix": "for the Romansh language."}]
@@ -77,7 +77,7 @@
       "position": "President",
       "url": "https://fachverein-cl.ch/",
       "startDate": "2024-10",
-      "endDate": "Present",
+      "endDate": "2026-09",
       "summary": "Foster a sense of community and organise events such as game nights, potlucks, and excursions for students of Computational Linguistics at UZH. Represent the association in department and university meetings.",
       "highlights": ""
     },
