@@ -1,0 +1,27 @@
+metadata:
+  last_updated: '2026-10-06'
+papers:
+  B3dy7wkAAAAJ:9yKSN-GCB0IC:
+    citations: 3
+    title: Name consistency in llm-based machine translation of historical texts
+    year: '2025'
+  B3dy7wkAAAAJ:IjCSPb-OGe4C:
+    citations: 1
+    title: 'RUMLEM: A Dictionary-Based Lemmatizer for Romansh'
+    year: '2026'
+  B3dy7wkAAAAJ:UeHWp8X0CEIC:
+    citations: 1
+    title: 'Translation Asymmetry in LLMs as a Data Augmentation Factor: A Case Study for 6 Romansh Language Varieties'
+    year: '2026'
+  B3dy7wkAAAAJ:d1gkVwhDpl0C:
+    citations: 31
+    title: LLM-based machine translation and summarization for Latin
+    year: '2024'
+  B3dy7wkAAAAJ:qjMakFHDy7sC:
+    citations: 1
+    title: 'LLM-based translation for Latin: Summaries improve machine translation'
+    year: '2025'
+  B3dy7wkAAAAJ:u-x6o8ySG0sC:
+    citations: 6
+    title: LLM-based translation across 500 years. the case for early New High German
+    year: '2024'
